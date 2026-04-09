@@ -35,7 +35,7 @@
 ---
 
 ##  Lista 02: CTEs e Subqueries
- Subqueries e CTEs 
+`Subquerys e CTE`.
 
 
 ### Respostas
